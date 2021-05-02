@@ -1,4 +1,7 @@
-<h1 align="center">ER DET FREDAG?</h1>
+<p align="center">
+  <img height=200 src="https://user-images.githubusercontent.com/8472619/116818905-fd09e080-ab6d-11eb-99ff-af25072a4247.png"/>
+</p>
+
 <p align="center">
   <strong align="center">Have you ever been wondering if it was Friday?</strong>
 </p>
