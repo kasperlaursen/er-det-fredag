@@ -1,6 +1,6 @@
 {
   "name": "er-det-fredag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Have you ever been wondering if it was Friday? If yes, this package has the answer for you!",
   "main": "index.js",
   "scripts": {
